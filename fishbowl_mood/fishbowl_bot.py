@@ -63,4 +63,4 @@ async def fishbowl(ctx, energy_level: int, mood: str):
         await ctx.send(file=picture)
 
 # Run the bot
-bot.run('MTIzMzA1OTU4MzMyOTgzMzAxMQ.GIlwV-.WTDzKj_UWrLuvZ9ap-DvZVVdhr6lH5rMboSgxw')
+bot.run('TOKEN')
